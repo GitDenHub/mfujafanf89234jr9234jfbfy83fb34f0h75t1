@@ -55,7 +55,7 @@ with st.container(border=True):
     st.markdown('Силен в программировании, точных науках и работе с китайским/английским языками.')
     st.link_button('Посетить', 'https://chat.qwen.ai', icon=':material/east:', width="stretch")
 with st.container(border=True):
-    st.image('img/qwenlogo.svg')
+    st.image('img/gigachatlogo.svg')
     st.markdown('#### GigaChat')
     st.markdown('''GigaChat — сервис на основе искусственного интеллекта, способный общаться с пользователями в режиме диалога, генерировать по запросу тексты и изображения, писать программный код
     и создавать музыку. Данный чат-бот разработан Сбером и поддерживает русский и английский языки. GigaChat использует генеративный искусственный интеллект на базе больших языковых моделей.''')
